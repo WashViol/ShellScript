@@ -1,10 +1,7 @@
-# What is it?
-Write ShelScript for learning.
-So maybe it is not fun to see.
-But you want to see if it is not fun and it is you were already known,
-That's OK. If you find something wrong, please teach me.
-# Now I am making...
-Nothing.
-# Thank you for watching!
-I don't have much friend interested PC or something.
-So if you are OK, please follow me.
+# NEW!
+update.sh 2020/03/17
+Update by shell. it can uses Centos7 and Ubuntu or something use apt-get.
+I thought it needs zypper version? Now I am thinking about this.
+# Idea
+Hiyayakko recipe (easy to make Japanese food) on Linux.
+I am thinking it's ditail,
